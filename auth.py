@@ -3,13 +3,13 @@
 
 import leancloud
 
-APPID = '123'
+APPID = 'BzqA6gkANee9Suvk6CCc9ogW-gzGzoHsz'
 # 填写应用的 APPID
 
-APPKEY = '123'
+APPKEY = 'UsXTxVIQKiNQYCfhyUDnhTCk'
 # 填写应用的 APPKEY
 
-MASTERKEY = '123'
+MASTERKEY = '7Ax9jbK08uXXAf5sVAFx03Fx'
 # 填写应用的 MASTERKEY
 
 HEROKUAPP = r''
